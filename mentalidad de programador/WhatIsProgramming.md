@@ -24,15 +24,21 @@ _Algoritmo. Se dice algoritmo. No logaritmo. Son cosas diferentes._
 
 Para explicar lo que es un algoritmo, generalmente se suele explicar el algoritmo de _cambiar la rueda de un coche_ o _hacer una receta de cocina._ para no hacer el mismo ejemplo, vamos a explicar el algoritmo de _Invitar a una persona a ver una pelicula:_
 
-1*Buscar la pelíca que vas a ver.*
-2*llamar por teléfono e invitar a ver la película.*
-3*Darte una ducha.*
-4*Vestirte para estar presentable.*
-5*preparar popcorn.*
-6*Atender la visita.*
-7*Ver película.*
+1 _Buscar la pelíca que vas a ver_.
 
-El orden de estos pasos es _importante_. Por ejemplo, hay que hacer el paso _1_ antes del _2_, para comunicar la película que vamos a ver o anticiparnos y tener otras pensadas en el caso que la otra persona ya la haya visto. O por ejemplo, el paso _4_ y el _6_. No es lo mismo vestirte y recibir la visita y luego vestirte con el invitado mirando.
+2 _llamar por teléfono e invitar a ver la película_.
+
+3 _Darte una ducha_.
+
+4 _Vestirte para estar presentable._
+
+5 _preparar popcorn_.
+
+6 _Atender la visita_.
+
+7 _Ver película_.
+
+El orden de estos pasos es _importante_. Por ejemplo, hay que hacer el paso _1_ antes del _2_ , para comunicar la película que vamos a ver o anticiparnos y tener otras pensadas en el caso que la otra persona ya la haya visto. O por ejemplo, el paso _4_ y el _6_. No es lo mismo vestirte y recibir la visita y luego vestirte con el invitado mirando.
 
 Además, también se podría entrar en detalle de planificación, como por ejemplo, realizar cuanto antes la llamada de teléfono, par dar tiempo
 a la persona a llegar a casa si vive muy lejos. si la llamamos cuando hayamaos preparado todo, en el punto _6_, tardaría mucho mucho en llegar, o se enfrían los aperitivos.
