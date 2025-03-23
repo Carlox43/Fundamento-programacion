@@ -15,3 +15,32 @@ muy a menudo se piensa que dominar un cierto lenguaje de programacion o framewor
 Un buen programador piensa las soluciones antes de escribir una sola línea de código, Cuando está seguro que no va a gastar tiempo eb escribir código que se va a eliminar porque no tenía el enfoque o la dirección correcta, entonces escribe líneas de código.
 
 Por lo tanto, la programacion es más _pensar_ que _teclear_. Y para hacer esto, hay que aprender a _pensar y analizar_ con mentalidad de programador.
+
+Concepto de algoritmo
+
+Se suele decir que en el mundo de la _programacion_ debemos aprender a pensar por pasos. Crear algoritmos. Un algoritmo sólo es una secuencia de tareas que se realizan una detras de otra, para conseguir un objetivo final.
+
+_Algoritmo. Se dice algoritmo. No logaritmo. Son cosas diferentes._
+
+Para explicar lo que es un algoritmo, generalmente se suele explicar el algoritmo de _cambiar la rueda de un coche_ o _hacer una receta de cocina._ para no hacer el mismo ejemplo, vamos a explicar el algoritmo de _Invitar a una persona a ver una pelicula:_
+
+1 _Buscar la pelíca que vas a ver._
+2 _llamar por teléfono e invitar a ver la película._
+3 _Darte una ducha._
+4 _Vestirte para estar presentable._
+5 _preparar popcorn._
+6 _Atender la visita._
+7 _Ver película._
+
+El orden de estos pasos es _importante_. Por ejemplo, hay que hacer el paso _1_ antes del _2_, para comunicar la película que vamos a ver o anticiparnos y tener otras pensadas en el caso que la otra persona ya la haya visto. O por ejemplo, el paso _4_ y el _6_. No es lo mismo vestirte y recibir la visita y luego vestirte con el invitado mirando.
+
+Además, también se podría entrar en detalle de planificación, como por ejemplo, realizar cuanto antes la llamada de teléfono, par dar tiempo
+a la persona a llegar a casa si vive muy lejos. si la llamamos cuando hayamaos preparado todo, en el punto _6_, tardaría mucho mucho en llegar, o se enfrían los aperitivos.
+
+Mentalidad de programación.
+
+Probablemente, el punto más importante de la _programación_ se basa en estos detalles. Idear una buena estrategia para resolver problema, adaptándose a los criterios o situaciones particulares y minimizando el tiempo y coste para llevarlo a cabo. Y para esto, fundamentalmente hace conocmientos y práctica.
+
+Además, si tienes estos conceptos claros, da igual el lenguaje o framework en el que lo realice porque los pasos son los mismos (_o al menos, muy similares_).
+
+_el código es solo la herramienta final para comunicarle a la mániquina cómo resolver ese problema, pero la programación se basa en cómo piensas, no solo en como escribes._
