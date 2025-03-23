@@ -24,7 +24,7 @@ _Algoritmo. Se dice algoritmo. No logaritmo. Son cosas diferentes._
 
 Para explicar lo que es un algoritmo, generalmente se suele explicar el algoritmo de _cambiar la rueda de un coche_ o _hacer una receta de cocina._ para no hacer el mismo ejemplo, vamos a explicar el algoritmo de _Invitar a una persona a ver una pelicula:_
 
-1 _Buscar la pelíca que vas a ver_.
+1 _Buscar la película que vas a ver_.
 
 2 _llamar por teléfono e invitar a ver la película_.
 
