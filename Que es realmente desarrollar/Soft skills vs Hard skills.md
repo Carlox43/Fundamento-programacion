@@ -1,3 +1,5 @@
+# Soft skills vs Hard skills
+
 cuando hablamos de un desarrollador como candidato para trabajar en un empresa o proyecto, normalmente generalizamos y solemos mencionar dos cualidades que engloban muchas características:
 
 💻 Hard skills (_Habilidades duras_).
@@ -56,7 +58,7 @@ Una oregunta muy común que suelen plantearme es: ¿Qué es más importante? ¿L
 
 Sin embargo, muchas empresas suelen considerar que son _más importante las soft-skills_. La razón es que las habilidades duras suelen ser más fáciles de aprender, y muchas empresas forman a sus empleados en las tecnologías o frameworks que utilizan y buscan empleados con buenas soft-skills. Por otro lado, si un desarrollador tiene una persona difícil de tratar y es mucho más difícil conseguir que aprenda a mejorar sus soft skills.
 
-_Cordialmente se suele decir: <<No importa nno tienes conocimientos sobre una tecnologia concreta, alguiente te puede enseñar. Pero si eres imbécil con los demás, es más difícil.>>_
+_Cordialmente se suele decir: <<No importa nno tienes conocimientos sobre una tecnologia concreta, alguiente te puede enseñar. Pero si eres imbécil con los demás, es más difícil.>>_.
 
 ¿Es obligatorio saber inglés?
 

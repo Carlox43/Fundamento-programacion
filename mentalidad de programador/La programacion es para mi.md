@@ -1,3 +1,5 @@
+# ¿La programación es para mi?
+
 Algunas de las preguntas más comunes que recibo o leo en la relacion a aprender a programar, que generalmente son generalizaciones de personas que no conocen el sector, son las siguientes:
 
 1*La programacion es sólo para genios*.
@@ -12,7 +14,7 @@ Estas preguntas son generalizaciones que me encuentro a menudo, pero en realidad
 
 ¿La programación es para genios?.
 
-_No_. Obiamente, la programación es una actividad que tiene que ver mucho con la lógica, las matemáticas y otros sectores técnicos, por lo que es normal que requiera cierta capacidad de razonamiento y cálculos.
+No. Obiamente, la programación es una actividad que tiene que ver mucho con la lógica, las matemáticas y otros sectores técnicos, por lo que es normal que requiera cierta capacidad de razonamiento y cálculos.
 
 Sin embargo, la programación no está especialmente dirigida a persona que deben tener unas capacidades de inteligencia fuera de lo común, sino más bien a personas que deben ser constantes, metódicas y tener cierta curiosidad por aprender y mejorar.
 
@@ -36,7 +38,7 @@ También es muy común que se venda la idea de <<Cualquiera persona, si quiere, 
 
 Exceptuando factores externos a la persona, que simplemente influyen en esto: obligaciones personales, tiempo de dedicación, recursos... Estoy más de acuerdo con una afirmación como <<Cualquiera persona, con la actitud correcta (constancia, curiosidad y ganas) puede aprender a programar>>.
 
-❌ La programación _No_ es solo para gente súper inteligente.
+❌ La programación No es solo para gente súper inteligente.
 
 ⏰ Es necesario tiempo y constancia para aprender correctamente.
 

@@ -1,3 +1,5 @@
+# Mentalidad de aprendizaje
+
 Como hemos mencionado anteriormente, entrar en el mundo de la programacion requiere adoptar una actitud concreta, que hara que te sea más fácil gestionar los retos que aparezcan.
 
 Esa actitud debe poseer varias características:
