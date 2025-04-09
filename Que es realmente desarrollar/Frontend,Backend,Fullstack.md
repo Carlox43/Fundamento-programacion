@@ -67,3 +67,29 @@ Otro detalle que merece la pena mencionar es que un sitio web no se construye si
 · Front-end + back-end: Esta modalidad es la que se ve en el gráfico anterior y es una unión de las dos siguientes. En estos esquemas, normalmente se utiliza un framework de frontend para gestionar la parte e interacccion con el usuario, y un framework en el back-end para realizar ciertas tareas y enviar/ recibir datos al frontend a traves de una API.
 
 · Front-end: las tecnologías de frontend se ejecuta en el navegador, después de haber sido descargadas, por esa razón, las tecnologias de font-end tienen como ventaja ser más rápida y no tener mucha latencia. Si tenemos frameworks de Javascript (React, Vue, Angular...), éstos trabajan en este extremo. A través de Javascript, se puede recibir/ enviar informacion al back-end a través de una API. Si tenemos esquema de sólo frontend, se suele prescindi del backend/ base de datos y se utilizan servicion de terceros en su lugar.
+
+¿Qué es una API?
+
+El término API se refiere a tecnologías que nos permiten conectar dos sistemas. Por ejemplo, el frontend nescesita una tarea que hace el backend (_por ejemplo, buscar un usuario en la base de datos_), entonces a través de una API le envía lo que quiere hacer y que quiere buscar. El backend reibe esa información, realiza la búsqueda y se la envía a través de esa misma API, mediante otra comunicacion diferente en sentido backend-frontend.
+
+¿Qué es FullStack?
+
+Anteriormente hemos mencionado los términos _front-end_ y _back-end_,pero no hemos mencionado el término Full-Stack. Cuando se habla de que una persona es Full Stack nos referimos a que puede realizar tareas tanto frontend como backend, con cierta destreza y habilidad en ambas.
+
+Normalmente, una persona considerada FullStack requiere tener varios años de experiencia, ya que nescesita tener conocimientos de múltiples tecnologías y lenguajes, haberse encontrado con problemas de muchos tipos, saber resolverlos tener buenos soft skills.
+
+Mitos típicos y estereotipos.
+
+· 'El frontend solo es hacer botones bonitos'
+
+· 'El backend es más difícil que el frontend'
+
+· 'HTML/CSS no es programación'
+
+· 'El backend sólo son APIs'
+
+· 'Ese lenguaje/framework no lo pienso tocar ni con un palo'
+
+· 'javascript es un lenguaje de juguete'
+
+Un buen programador reconoce por su calidad como programador y como persona. Aunque todo el mundo puede tener preferencias a la hora de trabajar o resultarle más comoda cierta tecnología, tener opiniones fuertes sobre sectores, tecnologías o lenguajes no te hace mejor programador. De hecho, es muy probable que a una persona experimentada le parezca más inexperto o que tienes poca experiencia si demuestras opiniones fuertes sobre ciertas tecnologías o lenguajes.
